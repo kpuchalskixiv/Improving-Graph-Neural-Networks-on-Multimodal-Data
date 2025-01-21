@@ -1,0 +1,17 @@
+[project]
+name = "multimodal-gnn"
+version = "0.1.0"
+description = "Source code for my Master thesis titled Improving Graph Neural Networks for
+ Multimodal Data"
+authors = [
+    {name = "Kacper Puchalski",email = "k.puchalski.xiv@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
